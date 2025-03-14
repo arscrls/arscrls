@@ -1,0 +1,51 @@
+# Byte-compiled / intermediate files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and settings files
+.env
+*.env
+
+# Python virtual environments
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Data files (optional, if you want to ignore data files in the root folder)
+*.csv
+*.tsv
+*.json
+*.xls*
+*.db
+*.sqlite
+
+# Power BI files (if relevant)
+*.pbix
+
+# Custom folders (add specific folders you want to ignore)
+temp/
+output/
+
+# Miscellaneous
+*.bak
+*.tmp
